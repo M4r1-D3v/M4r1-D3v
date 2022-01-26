@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a jr. backend developer, programming in Java and working at Zup (https://www.zup.com.br/) 
+I'm a jr. backend developer, programming in Java and working at [Zup Innovation](https://www.zup.com.br/)   
 
 ---
 
