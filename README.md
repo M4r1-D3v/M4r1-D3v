@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a jr. backend developer, programming in Java/Kotlin and working at [Zup Innovation](https://www.zup.com.br/)   
+I'm a jr. back-end developer, programming in Java/Kotlin and working at [Zup Innovation](https://www.zup.com.br/)   
 
 ---
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/kotlin-1" alt="Kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="57" height="57"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="Intellij Logo" width="57" height="57"/> <img src="https://cdn.worldvectorlogo.com/logos/apache-maven-1.svg" alt="Spring Logo" width="100" height="100"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>  <img src="kotlin-1.svg" alt="Kotlin Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="57" height="57"/>  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="Intellij Logo" width="57" height="57"/>  <img src="https://cdn.worldvectorlogo.com/logos/apache-maven-1.svg" alt="Spring Logo" width="100" height="100"/> 
 
 ---
 ---
