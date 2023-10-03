@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a jr. back-end developer, programming in Java/Kotlin and working at [Zup Innovation](https://www.zup.com.br/)   
+I'm a jr. back-end developer, programming in Java/Kotlin and working at SEF- MG   
 
 ---
 
